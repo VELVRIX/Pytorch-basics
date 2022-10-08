@@ -1,4 +1,4 @@
-# docsTemplate
-its just a template Repository for documentation
+# Pytorch basics
 
-Click on `Use this template` button on the top right to use this repository as a boiler plate for your next documentation
+## this repository contains introduction to Pytorch
+## [click here] (https://velvrix.github.io/Pytorch-basics/) refer the documentation associated with is repository
