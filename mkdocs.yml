@@ -3,8 +3,9 @@ site_name: Velvrix PyTorch Basics
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - page-2: page-2.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: Vivek Kumar
 site_description: >-
   DESCRIPTION
 
